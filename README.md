@@ -10,7 +10,11 @@
 🌱 Currently building my foundation in tech and exploring GitHub.
 
 ---
+### 🚀 Future Goals & Collaboration
+🔭 I am looking for **future projects** and **organizations** to join and learn from.
+🤝 Open to collaborating on Networking, Web, or Database projects!
 
+---
 ### 📊 My Activity
 ![My Stats](https://github-readme-streak-stats.herokuapp.com/?user=jjjjustine&theme=dark&hide_border=true)
 
