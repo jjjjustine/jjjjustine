@@ -8,7 +8,7 @@
 ---
 
 ### 📊 My Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=jjjjustine&show_icons=true&theme=dark)
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&theme=dark)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jjjjustine&label=Profile+Views&color=blue&style=flat" />
