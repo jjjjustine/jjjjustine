@@ -1,10 +1,5 @@
 # Hi, I'm Justine👋
 
-<!--
-**jjjjustine/jjjjustine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### 🚀 About Me
 - 🌐 **Networking:** I am really interested in Networking and learning how systems connect.
 - 💾 **Databases:** I have already learned and worked with **MySQL**.
