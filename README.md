@@ -2,19 +2,21 @@
 
 # Hi, I'm Justine 👋
 
-### 🚀 About Me
-**Networking Enthusiast** | **MySQL Learner**
+### 🛰️ Networking & Database Enthusiast
 
+---
+
+### 🚀 About Me
 🌐 I am really interested in **Networking** and learning how systems connect.
 💾 I have already learned and worked with **MySQL**.
 🌱 Currently building my foundation in tech and exploring GitHub.
 
 ---
-### 🚀 Future Goals & Collaboration
+Future Goals & Collaboration
 🔭 I am looking for **future projects** and **organizations** to join and learn from.
-🤝 Open to collaborating on Networking, Web, or Database projects!
-
+🤝 Open to collaborating on **Networking**, **Web**, or **Database** projects!
 ---
+
 ### 📊 My Activity
 ![My Stats](https://github-readme-streak-stats.herokuapp.com/?user=jjjjustine&theme=dark&hide_border=true)
 
