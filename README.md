@@ -14,6 +14,7 @@
 ---
 ### Future Goals & Collaboration
 🔭 I am looking for **future projects** and **organizations** to join and learn from.
+<br>
 🤝 Open to collaborating on **Networking**, **Web**, or **Database** projects!
 ---
 
