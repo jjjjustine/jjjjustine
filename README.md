@@ -80,11 +80,11 @@ const justine = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjjjustine&show_icons=true&theme=catppuccin_macchiato&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjjjustine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjjjustine&theme=catppuccin_macchiato&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjjjustine&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&theme=catppuccin_macchiato&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <div align="center">
