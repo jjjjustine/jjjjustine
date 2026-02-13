@@ -80,11 +80,12 @@ const justine = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjjjustine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjjjustine&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjjjustine&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=ff79c6&icon_color=8be9fd&count_private=true" alt="Stats" height="192px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=ff79c6&icon_color=8be9fd" alt="Top Languages" height="192px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjjjustine&theme=dracula&hide_border=true&background=0D1117&sideNums=ff79c6&stroke=ff79c6" alt="Streak" />
 </p>
 
 <div align="center">
