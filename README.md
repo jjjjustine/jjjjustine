@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=jjjjustine&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/jjjjustine?label=Followers&style=for-the-badge&color=blue" alt="followers" />
 </p>
 
 ---
