@@ -72,15 +72,20 @@ const justine = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jjjjustine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jjjjustine&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjjjustine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjjjustine&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jjjjustine&theme=tokyo-night&hide_border=true&area=true)](https://github.com/jjjjustine)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jjjjustine&theme=tokyo-night&hide_border=true&area=true" width="100%">
+</div>
 
 ---
 
