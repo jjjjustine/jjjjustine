@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=jjjjustine&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/jjjjustine?label=Followers&style=for-the-badge&color=blue" alt="followers" />
 </p>
 
 ---
@@ -30,10 +31,26 @@ const justine = {
 
 ## 💼 What I'm Doing
 
-🌐 Really interested in **Networking** and learning how systems connect  
-💾 Learning and working with **MySQL**  
-🌱 Building my foundation in tech and exploring GitHub  
-🔭 Looking for **future projects** and **organizations** to join and learn from
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Current Focus
+- Really interested in **Networking**
+- Learning how systems connect
+- Exploring GitHub and collaboration
+
+</td>
+<td width="50%">
+
+### 💾 Learning
+- ✅ MySQL Database Management
+- 🌱 Building my tech foundation
+- 🔭 Looking for projects to join
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -63,16 +80,38 @@ const justine = {
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jjjjustine&theme=tokyo-night&hide_border=true&area=true" width="100%">
+
 ---
 
-## 🤝 Let's Collaborate!
+## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
-### I'm open to collaborating on:
-**Networking** • **Web Development** • **Database** projects
+### 🔍 I'm Looking For:
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" /><br>
+<b>Open Source Projects</b><br>
+<sub>Ready to contribute!</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="80" /><br>
+<b>Tech Communities</b><br>
+<sub>Organizations to join</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="80" /><br>
+<b>Collaboration</b><br>
+<sub>Networking & DB projects</sub>
+</td>
+</tr>
+</table>
+
+### 📫 Open to collaborating on:
+**Networking** • **Web Development** • **Database** projects
 
 💬 *Feel free to reach out for collaborations or learning together!*
 
