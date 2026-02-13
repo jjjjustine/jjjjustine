@@ -80,15 +80,12 @@ const justine = {
 ## 📊 GitHub Statistics
 
 <div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=jjjjustine&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<!-- GitHub Stats -->
-![Justine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjjjustine&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jjjjustine&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&theme=radical&hide_border=true)
-
-<!-- GitHub Streak Stats (Vercel version) -->
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=jjjjustine&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
 
