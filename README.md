@@ -81,13 +81,14 @@ const justine = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjjjustine&show_icons=true&theme=radical&hide_border=true)
+<!-- GitHub Stats -->
+![Justine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjjjustine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&theme=tokyonight&hide_border=true)
+
+<!-- Streak Stats (Vercel version) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjjjustine&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
 
 </div>
 
