@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Ctrl+C+Ctrl+V+Senior+Engineer;CHAR!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Ctrl%2BC+Ctrl%2BV+Senior+Engineer;CHAR!" alt="Typing SVG" />
 </p>
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Justine%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
