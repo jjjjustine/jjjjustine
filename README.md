@@ -1,12 +1,12 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=500&duration=2000&color=FF79C6&center=true&vCenter=true&width=700&lines=Ctrl%2BC+%7C+Ctrl%2BV+Senior+Engineer;CHAR!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=500&duration=2000&color=FF79C6&center=true&vCenter=true&width=700&lines=Ctrl%2BC+%7C+Ctrl%2BV+Senior+Engineer;Networking+%7C+Database+Enthusiast;Always+Learning+New+Tech+🚀" alt="Typing SVG" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Hi,%20I'm%20Justine%20👋&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-### 🛰️ Networking & Database Enthusiast • 💻 Tech Explorer
+### 🛰️ Networking • 💾 Databases • 💻 Tech Exploration
 
 <p align="center">
   <a href="https://github.com/jjjjustine">
@@ -25,24 +25,35 @@
 
 ---
 
-## 💼 What I'm Doing
+# 👨‍💻 About Me
+
+I'm **Justine**, a technology enthusiast passionate about understanding how systems connect and communicate.  
+My interests revolve around **Networking, Databases, and System Infrastructure**.
+
+I enjoy learning how technologies interact behind the scenes — from **data flow between systems** to **network communication and database management**.
+
+🚀 Currently focused on strengthening my technical foundation and exploring collaborative projects.
+
+---
+
+# 💼 Current Focus
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Current Focus
-- Strong interest in **Networking**
-- Learning how systems connect
-- Exploring GitHub and collaboration
+### 🌐 Networking
+- Understanding **network architectures**
+- Learning how systems communicate
+- Exploring real-world infrastructure concepts
 
 </td>
 <td width="50%" valign="top">
 
-### 💾 Learning
-- ✅ MySQL Database Management
-- 🌱 Building my tech foundation
-- 🔭 Looking for projects to join
+### 💾 Databases
+- Working with **MySQL**
+- Learning database structure and queries
+- Understanding **data storage & management**
 
 </td>
 </tr>
@@ -50,7 +61,16 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 📚 Currently Learning
+
+- 📡 Networking Fundamentals  
+- 🗄️ MySQL Database Management  
+- 🛠️ Git & GitHub Collaboration  
+- 🌱 Building strong programming foundations  
+
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -66,15 +86,16 @@
 ### 💾 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌐 Tools
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
+
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjjjustine&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=ff79c6&icon_color=8be9fd&count_private=true" height="192px" />
@@ -93,36 +114,36 @@
 
 ---
 
-## ✨ Let's Connect & Collaborate!
+# 🤝 Collaboration
 
 <div align="center">
 
-### 🔍 I'm Looking For
+### 🔍 I'm Open To
 
 <table width="100%">
 <tr>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="85" /><br>
-<b>Open Source Projects</b><br>
-<sub>Ready to contribute</sub>
+<b>Open Source</b><br>
+<sub>Contributing to projects</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="85" /><br>
 <b>Tech Communities</b><br>
-<sub>Organizations to join</sub>
+<sub>Learning with others</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="85" /><br>
-<b>Collaboration</b><br>
-<sub>Networking & DB projects</sub>
+<b>Collaborative Projects</b><br>
+<sub>Networking & Databases</sub>
 </td>
 </tr>
 </table>
 
-### 📫 Open to collaborating on
-**Networking** • **Web Development** • **Database** projects  
+### 📫 Open to working on
+**Networking** • **Web Development** • **Database Systems**
 
-💬 *Feel free to reach out for collaboration or learning together.*
+💬 Feel free to reach out if you'd like to collaborate or learn together.
 
 </div>
 
@@ -130,7 +151,7 @@
 
 <div align="center">
 
-### ✨ _"Learning and growing, one connection at a time."_ ✨
+### ✨ _"Learning and building one connection at a time."_ ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"/>
 
