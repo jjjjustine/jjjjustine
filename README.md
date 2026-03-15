@@ -6,12 +6,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Hi,%20I'm%20Justine%20👋&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-## 📊 GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjjjustine&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
 ### 🛰️ Networking • 💾 Databases • 💻 Tech Exploration
 
 <p align="center">
