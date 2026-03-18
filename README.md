@@ -32,7 +32,6 @@ I enjoy learning how technologies interact behind the scenes — from **data flo
 
 🚀 Currently focused on strengthening my technical foundation and exploring collaborative projects.
 ---
-
 # 💼 Current Focus
 
 <table width="100%">
