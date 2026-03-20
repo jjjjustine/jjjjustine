@@ -32,6 +32,7 @@ My interests revolve around **Networking, Databases, and System Infrastructure**
 I enjoy learning how technologies interact behind the scenes — from **data flow between systems** to **network communication and database management**.
 
 🚀 Currently focused on strengthening my technical foundation and exploring collaborative projects.
+
 ---
 
 # 💼 Current Focus
