@@ -48,6 +48,7 @@ I enjoy learning how technologies interact behind the scenes — from **data flo
 - Exploring real-world infrastructure concepts
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 💾 Databases
