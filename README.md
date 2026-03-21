@@ -41,7 +41,6 @@ I enjoy learning how technologies interact behind the scenes — from **data flo
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
 ### 🌐 Networking
 - Understanding **network architectures**
 - Learning how systems communicate
