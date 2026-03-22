@@ -1,7 +1,7 @@
 <div align="center">
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=500&duration=2000&color=FF79C6&center=true&vCenter=true&width=700&lines=Ctrl%2BC+%7C+Ctrl%2BV+Senior+Engineer;HAHAHAH+Database+;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=500&duration=2000&color=FF79C6&center=true&vCenter=true&width=700&lines=Ctrl%2BC+%7C+Ctrl%2BV+Senior+Engineer;HAHAHAH++;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Hi,%20I'm%20Justine%20👋&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
