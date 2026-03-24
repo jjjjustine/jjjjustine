@@ -16,7 +16,6 @@
   
   <img src="https://komarev.com/ghpvc/?username=jjjjustine&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
-
 </div>
 
 <div align="center">
