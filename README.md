@@ -55,7 +55,6 @@ I enjoy learning how technologies interact behind the scenes — from **data flo
 - Working with **MySQL**
 - Learning database structure and queries
 - Understanding **data storage & management**
-
 </td>
 </tr>
 </table>
