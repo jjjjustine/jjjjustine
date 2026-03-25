@@ -7,6 +7,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Hi,%20I'm%20Justine%20🫥&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 🛰️ Networking • 💾 Databases • 💻 Tech Exploration
+
 <p align="center">
   
   <a href="https://github.com/jjjjustine">
