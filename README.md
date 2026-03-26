@@ -77,22 +77,7 @@ Building my technical foundation — with a clear goal of becoming a **Network E
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jjjjustine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=jjjjustine&theme=tokyonight&hide_border=true" height="180px"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jjjjustine&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
+## 📊 GitHub Statistics <div align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjjjustine&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=ff79c6&icon_color=8be9fd&count_private=true" height="175px"/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=ff79c6&icon_color=8be9fd" height="175px"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjjjustine&theme=dracula&hide_border=true&background=0D1117&sideNums=ff79c6&stroke=ff79c6" /> </div>
 
 ---
 
