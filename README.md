@@ -81,21 +81,16 @@ Building my technical foundation — with a clear goal of becoming a **Network E
 
 <div align="center">
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=jjjjustine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E&count_private=true&include_all_commits=true&rank_icon=github" height="180px"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E&langs_count=8" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jjjjustine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=jjjjustine&theme=tokyonight&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=79C0FF&sideLabels=58A6FF&sideNums=79C0FF&dates=8B949E&stroke=1565C0&mode=weekly" height="180px"/>
+<img src="https://streak-stats.demolab.com?user=jjjjustine&theme=tokyonight&hide_border=true" height="180px"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jjjjustine&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&area_color=1F6FEB&hide_border=true" width="96%"/>
-
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jjjjustine&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
