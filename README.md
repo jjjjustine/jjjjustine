@@ -51,7 +51,6 @@ I enjoy learning how technologies interact behind the scenes — from **data flo
 </td>
 
 <td width="50%" valign="top">
-
 ### 💾 Databases
 - Working with **MySQL**
 - Learning database structure and queries
