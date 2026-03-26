@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/jjjjustine">
-  <img src="https://img.shields.io/badge/GitHub-jjjjustine-0d1117?style=for-the-badge&logo=github&logoColor=4FC3F7" />
+  <img src="https://img.shields.io/badge/GitHub-jjjjustine-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=jjjjustine&label=Profile%20Views&color=1565C0&style=for-the-badge" />
@@ -22,7 +22,7 @@
 
 Passionate about **Networking**, **Databases**, and **System Infrastructure**.<br/>
 I enjoy exploring how systems communicate and how data is structured and managed.<br/>
-Currently building my technical foundation — with a goal of becoming a **Network Engineer**.
+Building my technical foundation — with a clear goal of becoming a **Network Engineer**.
 
 </div>
 
@@ -33,31 +33,31 @@ Currently building my technical foundation — with a goal of becoming a **Netwo
 <div align="center">
 
 #### Languages
-![HTML5](https://img.shields.io/badge/HTML5-1565C0?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1976D2?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D47A1?style=for-the-badge&logo=javascript&logoColor=4FC3F7)
-![Java](https://img.shields.io/badge/Java-1565C0?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-1A237E?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1976D2?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-0D47A1?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 #### Frameworks & Deployment
-![React](https://img.shields.io/badge/React-0D47A1?style=for-the-badge&logo=react&logoColor=4FC3F7)
-![Vercel](https://img.shields.io/badge/Vercel-1565C0?style=for-the-badge&logo=vercel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 #### Databases
-![MySQL](https://img.shields.io/badge/MySQL-1565C0?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-1976D2?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-0D47A1?style=for-the-badge&logo=firebase&logoColor=4FC3F7)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### Networking
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1A237E?style=for-the-badge&logo=cisco&logoColor=4FC3F7)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 #### Tools
-![Git](https://img.shields.io/badge/Git-1565C0?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D47A1?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-1976D2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-1A237E?style=for-the-badge&logo=Arduino&logoColor=4FC3F7)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
 
@@ -67,11 +67,11 @@ Currently building my technical foundation — with a goal of becoming a **Netwo
 
 <div align="center">
 
-![React](https://img.shields.io/badge/Learning-React-0D47A1?style=for-the-badge&logo=react&logoColor=4FC3F7)
-![Vercel](https://img.shields.io/badge/Learning-Vercel-1565C0?style=for-the-badge&logo=vercel&logoColor=white)
-![MySQL](https://img.shields.io/badge/Learning-MySQL-1565C0?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Learning-Supabase-1976D2?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Learning-Firebase-0D47A1?style=for-the-badge&logo=firebase&logoColor=4FC3F7)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -96,9 +96,9 @@ Currently building my technical foundation — with a goal of becoming a **Netwo
 
 <div align="center">
 
-![Dream](https://img.shields.io/badge/Aspiring-Network%20Engineer-1A237E?style=for-the-badge&logo=cisco&logoColor=4FC3F7)
+![Aspiring](https://img.shields.io/badge/Aspiring-Network%20Engineer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![CCNA](https://img.shields.io/badge/Certification%20Path-CCNA-1565C0?style=for-the-badge&logo=cisco&logoColor=white)
-![Training](https://img.shields.io/badge/Training%20With-Cisco%20Packet%20Tracer-0D47A1?style=for-the-badge&logo=cisco&logoColor=4FC3F7)
+![Packet Tracer](https://img.shields.io/badge/Training%20With-Cisco%20Packet%20Tracer-0D47A1?style=for-the-badge&logo=cisco&logoColor=white)
 
 <br/>
 
