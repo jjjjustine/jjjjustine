@@ -27,7 +27,6 @@
 </div>
 
 
-
 # 👨‍💻 About Me
 
 I'm **Justine**, a technology enthusiast passionate about understanding how systems connect and communicate.  
