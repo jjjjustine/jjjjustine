@@ -1,5 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,12,30&height=180&section=header&text=Hi,%20I'm%20Justine%20🫥&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=500&duration=2000&color=4FC3F7&center=true&vCenter=true&width=620&lines=Ctrl%2BC%2C+Ctrl%2BV+Senior+Engineer+😂;Networking+%7C+Databases+%7C+Systems;Aspiring+Network+Engineer+🌐" alt="Typing SVG" />
