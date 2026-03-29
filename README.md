@@ -90,6 +90,7 @@ Building my technical foundation — with a clear goal of becoming a **Network E
 ![Packet Tracer](https://img.shields.io/badge/Training%20With-Cisco%20Packet%20Tracer-0D47A1?style=for-the-badge&logo=cisco&logoColor=white)
 
 <br/>
+
 > _"Learning and building one connection at a time."_
 
 </div>
