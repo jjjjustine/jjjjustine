@@ -48,7 +48,6 @@ Building my technical foundation — with a clear goal of becoming a **Network E
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 #### Networking
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
