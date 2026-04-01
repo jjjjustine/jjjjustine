@@ -17,7 +17,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 <div align="center">
   
 Passionate about **Networking**, **Databases**, and **System Infrastructure**.<br/>
