@@ -25,6 +25,7 @@ I enjoy exploring how systems communicate and how data is structured and managed
 Building my technical foundation — with a clear goal of becoming a **Network Engineer**.
 
 </div>
+
 ---
 
 ## 🛠️ Tech Stack
