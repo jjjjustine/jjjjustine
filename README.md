@@ -11,7 +11,6 @@
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=jjjjustine&label=Profile%20Views&color=1565C0&style=for-the-badge" />
-
 </div>
 
 ---
