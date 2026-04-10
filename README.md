@@ -20,7 +20,7 @@
 
 <div align="center">
 Passionate about **Networking**, **Databases**, and **System Infrastructure**.<br/>
-I enjoy exploring how systems communicate and how data is structured
+I enjoy exploring how systems communicate and how data is structu
 </div>
 
 ---
