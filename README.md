@@ -50,10 +50,6 @@
 
 ---
 
-<div align="center">
-
-
-</div>
 
 ---
 
