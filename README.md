@@ -21,7 +21,7 @@
 <div align="center">
 Passionate about **Networking**, **Databases**, and **System Infrastructure**.<br/>
 I enjoy exploring how systems communicate and how data is structured and managed.<br/>
-Building my technical foundation — 
+Building 
 </div>
 
 ---
