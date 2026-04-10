@@ -19,7 +19,6 @@
 ## 👨‍💻 About Me
 
 </div>
-
 ---
 
 ## 🛠️ Tech Stack
