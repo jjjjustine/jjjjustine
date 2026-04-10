@@ -50,8 +50,6 @@
 
 ---
 
-## 📚 Currently Learning
-
 <div align="center">
 
 
