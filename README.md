@@ -20,7 +20,7 @@
 
 <div align="center">
 Passionate about **Networking**, **Databases**, and **System Infrastructure**.<br/>
-I enjoy exploring
+I enjoy
 </div>
 
 ---
