@@ -4,6 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=500&duration=2000&color=4FC3F7&center=true&vCenter=true&width=620&lines=Ctrl%2BC%2C+Ctrl%2BV+Senior+Engineer+😂;Networking+%7C+Databases+%7C+Systems;Aspiring+Network+Engineer+🌐" alt="Typing SVG" />
 
 <br/>
+
 <a href="https://github.com/jjjjustine">   
 <imgsrc="https://img.shields.io/badge/GitHub-jjjjustine-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
