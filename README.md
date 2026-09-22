@@ -9,6 +9,7 @@ Networking • Systems • Databases • IoT
 <a href="https://github.com/jjjjustine">
 <img src="https://img.shields.io/badge/GitHub-jjjjustine-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=jjjjustine&label=Profile%20Views&color=1565C0&style=for-the-badge"/>
 
 </div>
@@ -56,9 +57,13 @@ Networking • Systems • Databases • IoT
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjjjustine&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjjjustine&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjjjustine&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=jjjjustine&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -66,9 +71,9 @@ Networking • Systems • Databases • IoT
 
 <div align="center">
 
-🌐 **Aspiring Network Engineer**
+### 🌐 Aspiring Network Engineer
 
-*Learning. Building. Connecting.*
+**Learning. Building. Connecting.**
 
 </div>
 
